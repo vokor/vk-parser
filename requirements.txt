@@ -1,0 +1,2 @@
+aiofiles==0.7.0
+vkbottle==2.7.7
